@@ -2,7 +2,7 @@
 
 **A Spam Mail Detection Application is a software system designed to automatically identify and filter out unwanted or unsolicited emails from a user's inbox. These emails, commonly referred to as "spam," often contain advertisements, phishing attempts, malware, or other forms of unsolicited content. The goal of the application is to improve user experience by reducing the clutter and potential risks associated with spam emails.**
 
-## Here we have conducted 3 days bootcamp on how to build End to End Spam Mail Detection Application using NLP with Python. The entire model is divided into 3 steps:
+#### Here we have conducted 3 days bootcamp on how to build End to End Spam Mail Detection Application using NLP with Python. The entire model is divided into 3 steps:
 
 **Day 1: Text Pre-processing using Regular Expression (helps in data cleaning and extracting relevant/specified pattern from data).**
 
